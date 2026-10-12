@@ -1,0 +1,10 @@
+[image,night,night,0,0,0,spFadeIn_1000]
+[audio,bgm,Purple Cat - Breath taking  (madrugada ),true,0,audioTransit_1_1000]
+[show]
+好欸！終於考完了www[lr]一切都結束了[w]
+成績單發下來了！[lr]好緊張...這學期到底能不能歐趴呢？[w]
+...............[w]
+
+
+
+

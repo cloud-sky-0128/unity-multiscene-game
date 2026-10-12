@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: c656d1866afe0ed4d8f1eb8054b62463
+  - enabled: 1
+    path: Assets/Scenes/Start2.unity
+    guid: 68ff041b9648fe145b2c7ce01cea9dc0
+  - enabled: 1
+    path: Assets/Scenes/intro.unity
+    guid: 88eb3629398dd93499bb6f93a13118c0
+  - enabled: 1
+    path: Assets/Scenes/LA5.unity
+    guid: 94bef14ca8d1e4a4f8fc6975ffe84f65
+  - enabled: 1
+    path: Assets/Scenes/Cal.unity
+    guid: 7012e951918310d45a1e09a297e14e04
+  - enabled: 1
+    path: Assets/Scenes/Scene0.unity
+    guid: 7dbbe7ad2f8bdb0409de62364cfe296b
+  - enabled: 1
+    path: Assets/Scenes/programming2.unity
+    guid: 56d4dac871bb28e48a617d7fcd586bfe
+  - enabled: 1
+    path: Assets/Scenes/programming1.unity
+    guid: 9738c109161967b49aad57926ea89ea5
+  - enabled: 1
+    path: Assets/Scenes/P1ToP2.unity
+    guid: ac43fcfd365d3fd44bed7daa586ec3c7
+  - enabled: 1
+    path: Assets/Scenes/LA1.unity
+    guid: 7a7851d87dd683e43a08e231f221b82b
+  - enabled: 1
+    path: Assets/Scenes/LA2.unity
+    guid: 053ea4480df77174ebabff6647f25ec9
+  - enabled: 1
+    path: Assets/Scenes/LA3.unity
+    guid: ee4a4e5e36a306f4eabd7fa4dd413134
+  - enabled: 1
+    path: Assets/Scenes/LA4.unity
+    guid: cb0108f64db138141945f9fb515ea144
+  - enabled: 1
+    path: Assets/Scenes/Discrete.unity
+    guid: 8bb4f4c24bdd14649ad5d5316f5b52f9
+  - enabled: 1
+    path: Assets/Scenes/end.unity
+    guid: 436ea5bc79c9e9d4db83be4d290bc557
+  - enabled: 1
+    path: Assets/Scenes/caltoDM.unity
+    guid: da8121be17d3eac47ab4f1735895f9ff
+  - enabled: 1
+    path: Assets/Scenes/distoP1.unity
+    guid: 2ac4886c25865d146a65f056d5a02d2a
+  - enabled: 1
+    path: Assets/Scenes/introtoLA1.unity
+    guid: 4243ba1e6d1e985448d4a07ddf4d97c5
+  - enabled: 1
+    path: Assets/Scenes/LAtoCal.unity
+    guid: 43b35656b46d88149b74a49e70c6a895
+  - enabled: 1
+    path: Assets/Scenes/LA1 1.unity
+    guid: 8135edf76fc46a3499db8c333d4a00cd
+  - enabled: 1
+    path: Assets/Scenes/Scene1.unity
+    guid: 89b5b4fcf3f81be41bfbcc4b3ebb8f4a
+  - enabled: 1
+    path: Assets/Scenes/New Scene.unity
+    guid: cb9accec4d72e2c4fafa00edd9bd53aa
+  - enabled: 1
+    path: Assets/Scenes/introGame.unity
+    guid: 6b5f1fde5af77fb46b9672143376b0d8
+  - enabled: 1
+    path: Assets/Scenes/introtoCal.unity
+    guid: d1162ab9417260e47be45a113b225995
+  - enabled: 1
+    path: Assets/Scenes/introGame1.unity
+    guid: adf4ecb73e704f24f8cec33551e929d9
+  - enabled: 1
+    path: Assets/Scenes/end_backup.unity
+    guid: f76780b6bb9a1f04f9fa3c29ec0e9d5c
+  m_configObjects: {}

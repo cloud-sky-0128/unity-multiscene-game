@@ -1,0 +1,6 @@
+[c]起床去上線代吧[w]
+[hide]
+[remove,bgm2,audioTransit_0_1500]
+[remove,morning,spFadeOut_1000]
+[load_sence,introtoLA1]
+
