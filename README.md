@@ -13,6 +13,20 @@ A 2D level-based Unity course project built with C#. The game uses multiple scen
 - BGM / sound-effect control and persistent settings
 - UI built with Unity UI and TextMesh Pro
 
+## Gameplay Preview
+
+### Logic / Discrete Mathematics Level
+![Logic Level](docs/screenshots/03-logic-level.jpg)
+
+### Calculus Level
+![Calculus Level](docs/screenshots/02-calculus-level.jpg)
+
+### Programming Level
+![Programming Level](docs/screenshots/04-programming-level.jpg)
+
+### Intro Scene
+![Intro Scene](docs/screenshots/01-intro-scene.jpg)
+
 ## Tech Stack
 
 - **Engine:** Unity 2022.3.26f1
