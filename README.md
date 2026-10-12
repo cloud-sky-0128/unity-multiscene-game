@@ -1,4 +1,4 @@
-# Unity Multiscene Learning Game
+# Unity Multi-Scene Learning Game
 
 A 2D level-based Unity course project built with C#. The game uses multiple scenes themed around programming and mathematics topics, with interactive level mechanics, scoring, achievements, timers, and audio/settings management.
 
